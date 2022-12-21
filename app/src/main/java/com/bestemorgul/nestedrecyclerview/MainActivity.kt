@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         childItems1.add(Movies("Red Notice", R.drawable.rednotice))
 
         parentList.add(
-            Categories("Action Movies",
+            Categories("Action",
                 R.drawable.action,
                 childItems1))
 
